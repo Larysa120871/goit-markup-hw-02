@@ -16,7 +16,7 @@
     background-color: var(--white);
   }
   
-  /* header------------ */
+  /* header--- */
   .link {
     text-decoration: none;
   }
@@ -57,9 +57,9 @@
     color: var(--slate);
   }
   
-  /* --------main--------------- */
+  /* ---main--- */
   
-  /** hero---- */
+  /** hero--- */
   .hero {
     background-color: var(--navy-blue);
   }
@@ -86,7 +86,7 @@
   .button-active {
     cursor: pointer;
   }
-  /** points---- */
+  /** points--- */
   .points-list-item-title {
     font-weight: 500;
     font-size: 20px;
@@ -99,7 +99,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
   }
-  /** doing---- */
+  /** doing--- */
   .doing-title {
     font-size: 36px;
     line-height: 1.11;
@@ -108,7 +108,7 @@
     color: var(--navy-blue);
     text-align: center;
   }
-  /** our team---- */
+  /** our team--- */
   .team {
     background-color: var(--cloud);
   }
@@ -135,7 +135,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
   }
-  /* main portfolio---------------- */
+  /* main portfolio--- */
   
   /** button list--- */
   
@@ -148,7 +148,7 @@
     color: var(--iris);
     background: var(--cloud);
   }
-  /* portfolio list----- */
+  /* portfolio list--- */
   .portfolio-link-title {
     font-weight: 500;
     font-size: 20px;
